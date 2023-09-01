@@ -13,6 +13,12 @@ Some terrible code to play [rotaboxes](https://rotaboxes.com/) via an external k
 1. Run `qmk flash -kb winry/winry25tc -km programmable`
 
 
+### Requirements/development
+
+Use [Nix flakes](https://nixos.wiki/wiki/Flakes) and `nix develop` or
+[direnv](https://github.com/nix-community/nix-direnv).
+
+
 ### Usage
 
 1. Run `./relay-server.py`
@@ -47,3 +53,6 @@ and off as you get tiles "correct".
 - [ ] I think the Python async code might be terrible and need a cleanup
 - [ ] It doesn't handle errors very well
 - [ ] Make it use the programmable buttons by investigating libevdev or otherwise
+
+
+
