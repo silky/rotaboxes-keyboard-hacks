@@ -24,7 +24,7 @@ Use [Nix flakes](https://nixos.wiki/wiki/Flakes) and `nix develop` or
 1. Run `./relay-server.py`
 1. Open [rotaboxes](https://rotaboxes.com/) and paste in the
    [hacks.js](./hacks.js) code into the browser console.
-1. Press any button (aside from the bottom-left) to and watch the boxes
+1. Press any button (aside from the bottom-right) to and watch the boxes
    rotate!
 
 
