@@ -53,6 +53,10 @@ and off as you get tiles "correct".
 - [ ] I think the Python async code might be terrible and need a cleanup
 - [ ] It doesn't handle errors very well
 - [ ] Make it use the programmable buttons by investigating libevdev or otherwise
+- [ ] Because there is one spare key, this could be made into the 'shift' key,
+    and allow for rotation in the counter-clockwise direction, if one wished.
+- [ ] Maybe come up with a nice map of the 6x4 board onto the 5x5 board; the
+   present one doesn't do anything sensible.
 
 
 
