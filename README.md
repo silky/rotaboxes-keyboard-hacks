@@ -15,9 +15,9 @@ Some terrible code to play [rotaboxes](https://rotaboxes.com/) via an external k
 
 ### Usage
 
+1. Run `./relay-server.py`
 1. Open [rotaboxes](https://rotaboxes.com/) and paste in the
    [hacks.js](./hacks.js) code into the browser console.
-1. Run `./relay-server.py`
 1. Press any button (aside from the bottom-left) to and watch the boxes
    rotate!
 
@@ -47,5 +47,3 @@ and off as you get tiles "correct".
 - [ ] I think the Python async code might be terrible and need a cleanup
 - [ ] It doesn't handle errors very well
 - [ ] Make it use the programmable buttons by investigating libevdev or otherwise
-
-
