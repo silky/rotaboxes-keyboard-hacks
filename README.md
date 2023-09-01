@@ -38,7 +38,8 @@ and off as you get tiles "correct".
 
 ### Demo
 
-<iframe src="https://player.vimeo.com/video/860187767?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="rotaboxes hacks"></iframe>
+[Video on vimeo](https://vimeo.com/860187767?share=copy)
+
 
 
 ### Todo
