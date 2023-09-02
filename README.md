@@ -11,6 +11,8 @@ Some terrible code to play [rotaboxes](https://rotaboxes.com/) via an external k
 1. Open the nix shell with `nix-shell` (wait patiently if it's your first
    time).
 1. Run `qmk flash -kb winry/winry25tc -km programmable`
+1. Note: If you're on NixOS, you may need the udev rules configured in your `configuration.nix` or similar:
+   <https://github.com/silky/nixos-configuration/blob/74b49250763ba7172158cc8d7020ba03667a12db/users/noon/common-configuration.nix#L150>
 
 
 ### Requirements/development
